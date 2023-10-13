@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/7f4448f3-e75d-4b07-8ff8-b2c82506f407/resourceGroups/narkrg/providers/Microsoft.Web/sites/narkwebapp"
+}
